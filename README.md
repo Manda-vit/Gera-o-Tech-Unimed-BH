@@ -1,3 +1,2 @@
-# Geração Tech-Unimed-BH
-
-Repositório para guardar desafios de código do bootcamp da DIO
+# Instagram
+#Projeto desafio DIO no módulo HTML e CSS
